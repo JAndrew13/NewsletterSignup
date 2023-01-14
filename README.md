@@ -78,14 +78,14 @@ The `.env` file will contain your sensitive information, thus it is not included
 <!-- DIRECTORY -->
 ## Directory
 
-### [/public]()
+### [/public](https://github.com/JAndrew13/NewsletterSignup/tree/main/Public)
 **CSS**
 Folder containing CSS style sheet linked to the HTML document
 
 **images**
 Contains all image files used in the web page.
 
-### [/root]()
+### [/root](https://github.com/JAndrew13/NewsletterSignup)
 Contains all html pages, .env file,  and JS logic. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
