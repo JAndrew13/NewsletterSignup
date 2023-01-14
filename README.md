@@ -9,6 +9,8 @@ Between your IG posts, blue check tweets, and lengthy Facebook rants, it's nearl
 
 Built using Bootstrap along-side basic html and css - this app is simple yet effective. The user is greeted by a standard bootstrap form, allowing them to enter their contact info. When the user submits their data, the express app then uses BodyParser to extract the data in key:value pairs and then packs that into JSON. The JSON data is then *stringified* for the API, and finally posted to the MailChimp Server. Once a response from the API server is recived, the user is redirected to either a success or failure page depending on the result. 
 
+<img src="https://github.com/JAndrew13/NewsletterSignup/blob/main/Signup.jpg" width="350">
+
 <!-- TABLE OF CONTENTS -->
   #### Table of contents
 + [Prerequisites](#prerequisites)
